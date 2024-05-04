@@ -1,6 +1,6 @@
 ---
 
-# 📚 Insurance Charges Prediction Notebook
+# 📚 EDA Insurance Charges Prediction
 
 ## Introduction
 This notebook aims to predict insurance charges using a linear regression model based on various factors such as age, BMI, smoking status, etc. The dataset contains historical data of an organization's customers, including their characteristics and corresponding insurance charges.
